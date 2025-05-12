@@ -1,0 +1,8 @@
+pip install customtkinter
+pip install tkinter
+pip install face_recognition
+pip install opencv
+pip install PIL
+pip install faiss
+pip install numpy as np
+pip install csv
